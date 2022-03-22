@@ -1,3 +1,5 @@
 Noi dung 1
 
 sua loig
+- git check
+git
